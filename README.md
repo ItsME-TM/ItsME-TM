@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **machine learning, neural networks, full-stack development, and cloud computing.**
 
-- 📫 How to reach me **thushanmalaka@gmail.com**
+- 📫 How to reach me **thushanmalaka123@gmail.com**
 
 - ⚡ Fun fact **I love solving complex problems.**
 
