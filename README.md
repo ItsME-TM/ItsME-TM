@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thusan Malaka</h1>
 <h3 align="center">I'm a passionate software developer and researcher with a strong interest in machine learning, cloud computing, and full-stack development. I love exploring new technologies and continuously improving my skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsme-tm&label=Profile%20views&color=0e75b6&style=flat" alt="itsme-tm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsme-tm" alt="itsme-tm" /></a> </p>
-
 - 🔭 I’m currently working on **on various projects including a lab management system, a real and fake face detection system, and workload prediction in cloud computing.**
 
 - 🌱 I’m currently learning **advanced deep learning techniques and MERN MERN Stack.**
