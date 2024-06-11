@@ -1,7 +1,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 </h1>
 <h3 align="center">I'm a passionate software developer and researcher with a strong interest in machine learning, cloud computing, and full-stack development. I love exploring new technologies and continuously improving my skills.</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ItsME-TM&label=Profile%20views&color=0e75b6&style=flat" alt="ItsME-TM" /> </p>
+
 
 <table align="center">
 <tr border="none">
