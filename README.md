@@ -29,22 +29,22 @@
 ---
 
 <h3 align="center">My Statistics:</h3>
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ItsME-TM&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsME-TM&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=ItsME-TM&theme=dark">
-  
-  </td>
-</tr>
-</table>
+<div align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="left">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ItsME-TM&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+        <br><br>
+        <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsME-TM&theme=dark&hide_border=false" /> 
+      </td width="50%" align="left">
+      <td>
+        <img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=ItsME-TM&theme=dark" alt="Top Languages">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 
 
