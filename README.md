@@ -40,7 +40,7 @@
         <img align="center" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=ItsME-TM&theme=dark&hide_border=false" /> 
       </td width="50%" align="left">
       <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=ItsME-TM&theme=dark" alt="Top Languages">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsME-TM&langs_count=8&theme=dark" alt="Top Languages">
       </td>
     </tr>
   </table>
