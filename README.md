@@ -20,7 +20,7 @@
 </td>
 <td width="50%" align="center">
 
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+  <img align="center" alt="Coding" width="450" src="https://drive.google.com/file/d/1J17ogiIaUOk7x_WLqImAiF1te9tjhhjH/view?usp=drive_link">
 
 </td>
 </tr>
