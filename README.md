@@ -1,6 +1,4 @@
-## <picture> **👤 About me**
-
-</h1>
+<h2 align="left">👤 About me</h2>
 <h3 align="center">A results-oriented Software Engineer and Full-Stack Developer specializing in building scalable, high-performance web applications. With a strong background in modern tech stacks, I focus on delivering secure, maintainable, and user-centric enterprise solutions.</h3>
 
 <table align="center">
@@ -24,18 +22,32 @@
 </tr>
 </table>
 
----
 
-<h3 align="center">🏆 GitHub Trophies</h3>
+<br/>
+<h2 align="left">📊 GitHub Statistics</h2>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats-nine-cyan-50.vercel.app/api?username=ItsME-TM&show=prs_merged&hide=prs&theme=radical" alt="ItsME-TM's GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats-nine-cyan-50.vercel.app/api/top-langs?username=ItsME-TM&hide=Jupyter%20Notebook&hide_progress=true&theme=radical" alt="ItsME-TM's Top Languages" />
+</td>
+</tr>
+</table>
+
+
+<br/>
+<h2 align="left">🏆 GitHub Trophies</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-nine-tawny.vercel.app/api?username=ItsME-TM&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ItsME-TM" />
   </a>
 </div>
 
----
 
-<h3 align="left">Languages and Tools:</h3>
+<br/>
+<h2 align="left">Languages and Tools:</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -53,9 +65,9 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
----
 
-<h3 align="center">Connect with me:</h3>
+<br/>
+<h2 align="left">Connect with me:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/thushan-malaka-1885851ba/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:thushanmalaka123@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
