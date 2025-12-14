@@ -22,29 +22,25 @@
 </tr>
 </table>
 
-
 <br/>
 <h2 align="left">📊 GitHub Statistics</h2>
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats-nine-cyan-50.vercel.app/api?username=ItsME-TM&show=prs_merged&hide=prs&theme=radical" alt="ItsME-TM's GitHub Stats" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats-nine-cyan-50.vercel.app/api/top-langs?username=ItsME-TM&hide=Jupyter%20Notebook&hide_progress=true&theme=radical" alt="ItsME-TM's Top Languages" />
-</td>
-</tr>
-</table>
-
+<p align="center">
+  <img width="60%" src="https://github-readme-stats-nine-cyan-50.vercel.app/api?username=ItsME-TM&show=prs_merged&hide=prs&theme=radical" alt="ItsME-TM's GitHub Stats" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats-nine-cyan-50.vercel.app/api/top-langs?username=ItsME-TM&hide=Jupyter%20Notebook&hide_progress=true&theme=radical&layout=compact" alt="ItsME-TM's Top Languages" />
+</p>
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stat-two.vercel.app/?user=ItsME-TM&theme=merko" alt="ItsME-TM's Streak" />
+</p>
 
 <br/>
 <h2 align="left">🏆 GitHub Trophies</h2>
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-nine-tawny.vercel.app/api?username=ItsME-TM&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="ItsME-TM" />
+    <img width="100%" src="https://github-profile-trophy-nine-tawny.vercel.app/api?username=ItsME-TM&theme=radical&no-frame=true&no-bg=true&margin-w=20&column=4&title=-Issues" alt="ItsME-TM" />
   </a>
 </div>
-
 
 <br/>
 <h2 align="left">Languages and Tools:</h2>
@@ -64,7 +60,6 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
-
 
 <br/>
 <h2 align="left">Connect with me:</h2>
