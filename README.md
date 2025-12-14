@@ -24,14 +24,18 @@
 
 <br/>
 <h2 align="left">📊 GitHub Statistics</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-nine-cyan-50.vercel.app/api?username=ItsME-TM&show=prs_merged&hide=prs&theme=tokyonight" alt="ItsME-TM's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-nine-cyan-50.vercel.app/api/top-langs?username=ItsME-TM&hide=Jupyter%20Notebook&hide_progress=true&theme=tokyonight&layout=compact" alt="ItsME-TM's Top Languages" />
+    </td>
+  </tr>
+</table>
 <p align="center">
-  <img width=80%" src="https://github-readme-stats-nine-cyan-50.vercel.app/api?username=ItsME-TM&show=prs_merged&hide=prs&theme=tokyonight" alt="ItsME-TM's GitHub Stats" />
-</p>
-<p align="center">
-  <img width=80%" src="https://github-readme-stats-nine-cyan-50.vercel.app/api/top-langs?username=ItsME-TM&hide=Jupyter%20Notebook&hide_progress=true&theme=cobalt&layout=compact" alt="ItsME-TM's Top Languages" />
-</p>
-<p align="center">
-  <img width=80%" src="https://github-readme-streak-stat-two.vercel.app/?user=ItsME-TM&theme=ayu-mirage" alt="ItsME-TM's Streak" />
+  <img width="60%" src="https://github-readme-streak-stat-two.vercel.app/?user=ItsME-TM&theme=ayu-mirage" alt="ItsME-TM's Streak" />
 </p>
 
 <br/>
