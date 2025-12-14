@@ -9,9 +9,6 @@
 
 - 🌱 I’m currently enhancing **my problem-solving skills through LeetCode and exploring advanced cloud deployment strategies.**
 
-- 💬 Ask me about **system design, RESTful API architecture, database optimization, and secure authentication protocols.**
-
-- ⚡ Fun fact **I thrive on solving complex algorithmic challenges.**
 
 </td>
 <td width="50%" align="center">
